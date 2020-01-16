@@ -7,6 +7,7 @@ permalink: /tadaka/
 images etc
 
 Write text.
+have we updated yet?
 
 Add images:
 

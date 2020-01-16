@@ -9,6 +9,8 @@ images etc
 Write text.
 have we updated yet?
 
+yes!  seems to be working...
+
 Add images:
 
 <div class="pictures-container">

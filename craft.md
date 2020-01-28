@@ -4,4 +4,4 @@ title: Craft
 permalink: /craft/
 ---
 
-images etc
+ COMING SOON

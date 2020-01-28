@@ -1,10 +1,11 @@
 ---
 layout: creations
-title: Tadaka
+title: Maradhyana
 permalink: /tadaka/
 ---
 
-<i>Maradhyana : A dance-drama</i>
+<i>Maradhyana : A dance-drama based on a sub-story within Balakanda, Ramayana, centered around the character of the ‘Demoness’ Thadaka, who was killed by Rama.
+</i>
 
 
 <div class="pictures-container">
@@ -12,10 +13,10 @@ permalink: /tadaka/
 </div>
 
 
-Created for Gender Benger 2017, produced by Sandbox Collective and Goethe-Institut/Max Mueller Bhavan Bangalore. Further supported by Urur Olcott Kuppam Vizha, Maatru Nadaga Iyakkam, Thirupattur and Arul Anandar College, Madurai. 
+Created for Gender Bender 2017 by Madhushree Basu, produced by Sandbox Collective and Goethe-Institut/Max Mueller Bhavan Bangalore. Further supported by Urur Olcott Kuppam Vizha, Maatru Nadaga Iyakkam, Thirupattur and Arul Anandar College, Madurai. 
 
 
-‘Maradhyana’ is a dance-drama based on a sub-story within Balakanda, Ramayana, centered around the character of the ‘Demoness’ Thadaka, who was killed by Rama. Malayalam poet Vayalar Ramavarma wrote his poem 'Thadaka', depicting the same woman as a valiant Dravidian princess. The princess feels amorous at Rama and attempts to befriend him, but without forgetting the welfare of her own kingdom and their land rights. While Rama tends to reciprocate positively toward her romantic as well as political proposals, his guardian sage Vishwamitra intervenes and intimidates him into killing her—alone and weaponless.
+Malayalam poet Vayalar Ramavarma wrote his poem 'Thadaka', depicting the same woman as a valiant Dravidian princess. The princess feels amorous at Rama and attempts to befriend him, but without forgetting the welfare of her own kingdom and their land rights. While Rama tends to reciprocate positively toward her romantic as well as political proposals, his guardian sage Vishwamitra intervenes and intimidates him into killing her—alone and weaponless.
 
 
 <div class="pictures-container">
@@ -23,7 +24,7 @@ Created for Gender Benger 2017, produced by Sandbox Collective and Goethe-Instit
 </div>
 
 
-Given the politics behind ‘Demonification’ of certain races or castes, given the rampant massacre of Indian women and most of all the rapid proliferation of the violent Hindutva forces all across India, one feels compelled to engage with Vayalar's poem at many levels.
+Given the politics behind ‘demonification’ of certain races or castes, given the rampant massacre of Indian women and most of all the rapid proliferation of the violent Hindutva forces all across India, one feels compelled to engage with Vayalar's poem at many levels.
 
 
 The work has gone through a few versions whereas the only constant factors have been the masks—used for characterization as well as stage design. The original production (under the working title 'Swacchandacharini') was a solo along with a video.

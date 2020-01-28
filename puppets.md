@@ -4,4 +4,4 @@ title: Puppets
 permalink: /puppets/
 ---
 
-images etc
+COMING SOON

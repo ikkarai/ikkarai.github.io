@@ -4,4 +4,4 @@ title: Comics
 permalink: /comics/
 ---
 
-images etc
+COMING SOON

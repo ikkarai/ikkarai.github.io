@@ -6,6 +6,9 @@ permalink: /masks/
 
 Here are some mask commissions we have taken up:
 
+
+<p></p>
+
 <hr>
 
 # The Weight of Joy by Eric Languet
@@ -14,21 +17,23 @@ Here are some mask commissions we have taken up:
 
 <div class="pictures-container">
  <img src="../images/commissions/IMG-20180216-WA0025.jpg" class="shrinkToFit" height="400">
+  <img src="../images/commissions/IMG-20180216-WA0036-01.jpeg" class="shrinkToFit" height="400">
 </div>
 
-<div class="pictures-container">
- <img src="../images/commissions/IMG-20180216-WA0036-01.jpeg" class="shrinkToFit" height="400">
-</div>
 
 
 <div class="pictures-container">
  <img src="../images/commissions/IMG_20180408_122252.jpg" class="shrinkToFit" height="400">
 </div>
 
+
+<p></p>
+
 <div class="pictures-container">
  <img src="../images/commissions/IMG-20180215-WA0002.jpg" class="shrinkToFit" height="400">
 </div>
 
+<p></p>
 
 Info about the play
 

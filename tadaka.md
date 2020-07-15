@@ -30,7 +30,6 @@ Given the politics behind ‘demonification’ of certain races or castes, given
 The work has gone through a few versions whereas the only constant factors have been the masks—used for characterization as well as stage design. The original production (under the working title 'Swacchandacharini') was a solo along with a video.
 
 <div class="pictures-container">
- <img src="../images/tadaka/tadaka3.jpg" class="shrinkToFit" height="250">
   <img src="../images/tadaka/tadaka4.jpg" class="shrinkToFit" height="250">
 </div>
 
@@ -43,7 +42,6 @@ Later versions have been choreographed with children from Urur Olcott Kuppam in 
 
 
 <div class="pictures-container">
- <img src="../images/tadaka/tadaka5.jpg" class="shrinkToFit" height="250">
   <img src="../images/tadaka/tadaka6.jpg" class="shrinkToFit" height="250">
 </div>
 

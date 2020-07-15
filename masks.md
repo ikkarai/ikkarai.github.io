@@ -13,7 +13,7 @@ Here are some mask commissions we have taken up:
 
 # The Weight of Joy by Eric Languet
 
-
+The Weight of Joy was a dance project tackling the notion of handicap and social innovation, created by French choreographer Eric Languet.  It featured a character with a horse head, which he commissioned us to create.
 
 <div class="pictures-container">
  <img src="../images/commissions/IMG-20180216-WA0025.jpg" class="shrinkToFit" height="400">
@@ -35,13 +35,13 @@ Here are some mask commissions we have taken up:
 
 <p></p>
 
-Info about the play
 
 
 <hr>
 
 # Bad Hindu by Sunandha Raghunathan
 
+Info about the play
 
 
 <div class="pictures-container">

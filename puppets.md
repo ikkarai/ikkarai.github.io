@@ -45,11 +45,17 @@ Mohini was a performance combining classical dance with Pavakathakali puppetry. 
   <img src="../images/commissions/20190819_074622.jpg" class="shrinkToFit" height="400">
 </div>
 
+
 The puppets can be manipulated with a single hand.
 
 
 <div class="pictures-container">
  <img src="../images/commissions/20190819_074504.jpg" class="shrinkToFit" height="400">
+</div>
+
+<p></p>
+
+<div class="pictures-container">
  <img src="../images/commissions/20190819_074506.jpg" class="shrinkToFit" height="400">
 </div>
 

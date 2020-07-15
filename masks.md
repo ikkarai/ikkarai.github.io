@@ -8,10 +8,9 @@ Here are some mask commissions we have taken up:
 
 <hr>
 
-# Weight of Joy by Eric Languet
+# The Weight of Joy by Eric Languet
 
 
-<p></p>
 
 <div class="pictures-container">
  <img src="../images/commissions/IMG-20180216-WA0025.jpg" class="shrinkToFit" height="400">
@@ -31,22 +30,28 @@ Here are some mask commissions we have taken up:
 </div>
 
 
-
-'Mondays are Best for Flying out of Windows' is a play inspired by the stories of Daniil Kharms (1905-1942), an early Soviet era absurdist poet, writer and dramatist. Kharms was often incarcerated by the Soviet regime for his unconventional and rebellious ways. His adult literature was not published during his lifetime and he was confined to writing for children. He is said to have starved to an anonymous death in the psychiatric ward of a Soviet hospital after his arrest in 1942.
-
-<p></p>
-
-<div class="pictures-container">
-'Mondays are Best for Flying out of Windows' was created by Perch Collective, specially commissioned for the Serendipity Arts Festival and premiered in Panjim, Goa in December 2018.
-It was created and performed by Iswar Lalitha, Rency Philip, Sachin Gurjale, Vijay Ravikumar and Vinod Ravindran, and Rajiv Krishnan with music composed and played by Abhaydev Praful.
-
- <img src="../images/performance/kharms5.jpg" class="shrinkToFit" height="200">
-</div>
+Info about the play
 
 
 <hr>
 
 # Bad Hindu by Sunandha Raghunathan
+
+
+
+<div class="pictures-container">
+ <img src="../images/commissions/IMG-20181122-WA0071.jpg" class="shrinkToFit" height="400">
+</div>
+
+<div class="pictures-container">
+ <img src="../images/commissions/IMG-20181123-WA0032.jpg" class="shrinkToFit" height="400">
+</div>
+
+
+<div class="pictures-container">
+ <img src="../images/commissions/IMG-20181121-WA0042.jpg" class="shrinkToFit" height="400">
+</div>
+
 
 
  <a href="http://ikkarai.github.io/lentils">Click here for the main page for 'Lentils and Stones'.</a>. 

@@ -11,7 +11,7 @@ Here are some mask commissions taken up by Pranav Sreerag:
 
 <hr>
 
-# The Weight of Joy by Eric Languet -2018
+# The Weight of Joy by Eric Languet (2018)
 
 The Weight of Joy was a dance project tackling the notion of handicap and social innovation, created by French choreographer Eric Languet.  It featured a character with a horse head, which he commissioned us to create.
 
@@ -41,7 +41,7 @@ We covered this with cloth and some leather to create the finished mask!
 
 <hr>
 
-# Bad Hindu by Sunandha Raghunathan - 2019
+# Bad Hindu by Sunandha Raghunathan (2019)
 
 Bad Hindu was a performance by Sunandha Raghunathan that  combined Kattaikoothu and English theatre, and featured two  characters represented by masks, one male and one female.
 

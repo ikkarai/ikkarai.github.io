@@ -51,13 +51,13 @@ The puppets can be manipulated with a single hand.
 
 
 <div class="pictures-container">
- <img src="../images/commissions/20190819_074504.jpg" class="shrinkToFit" height="400">
+ <img src="../images/commissions/20190819_074504.jpg" class="shrinkToFit" height="300">
 </div>
 
 <p></p>
 
 <div class="pictures-container">
- <img src="../images/commissions/20190819_074506.jpg" class="shrinkToFit" height="400">
+ <img src="../images/commissions/20190819_074506.jpg" class="shrinkToFit" height="300">
 </div>
 
 To create these puppets, we began by visiting a traditional Pavakathakali workshop and studying their designs.

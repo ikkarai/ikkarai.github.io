@@ -23,11 +23,11 @@ Here are some mask commissions we have taken up:
 
 
 <div class="pictures-container">
- <img src="../images/commissionsIMG_20180408_122252.jpg" class="shrinkToFit" height="400">
+ <img src="../images/commissions/IMG_20180408_122252.jpg" class="shrinkToFit" height="400">
 </div>
 
 <div class="pictures-container">
- <img src="../images/commissions/IMG-20180215-WA0002.jpg.jpg" class="shrinkToFit" height="400">
+ <img src="../images/commissions/IMG-20180215-WA0002.jpg" class="shrinkToFit" height="400">
 </div>
 
 

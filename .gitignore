@@ -1,0 +1,10 @@
+_site/
+*-cache/
+.jekyll-metadata
+*.gem
+Gemfile
+Gemfile.lock
+.analysis
+.DS_Store
+*.swp
+*~

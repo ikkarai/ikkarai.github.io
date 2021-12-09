@@ -48,11 +48,13 @@ Music composed and performed live by Abhaydev Praful
 
 Art design and sets by Parvathy and Pranav Sreerag
 
-Tailoring by Purba
+Puppet design and construction by Pranav Sreerag and Vijay Ravikumar
+
+Costumes by Purba
 
 Lighting by Anushka Meenakshi and Iswar Lalitha
 
-Script by Vijay Ravikumar
+Concept and Script by Vijay Ravikumar
 
 Special thanks to  Perch Collective Chennai for their support and mentorship.
 

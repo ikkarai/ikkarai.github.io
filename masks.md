@@ -2,9 +2,11 @@
 layout: commissions
 title: Masks
 permalink: /masks/
+keyword: Masks
+subnav_order: 2
 ---
 
-Here are some mask commissions taken up by Pranav Sreerag:
+Here are some mask commissions we have taken up, led by Pranav Sreerag:
 
 
 <p></p>

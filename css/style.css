@@ -53,6 +53,7 @@ figcaption {
 }
 
 
+
 #cv {
   -webkit-font-smoothing: subpixel-antialiased;
   font-size: 1em;
@@ -414,9 +415,11 @@ footer > p {
 
 .subnav {
     padding-bottom: 1.125em;
-    margin-top: -1.125em;
-    margin-bottom: 2.25em;
+    padding-top: 1.125em;
+    margin-top: -.125em;
+    margin-bottom: 1.25em;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .grid {
@@ -479,6 +482,11 @@ img {
 	max-width: 100%;
 }
 
+ul.post-list {
+	font-family: Georgia, serif;
+  max-width: 40rem;
+  list-style-type: disc;
+}
 ul.post-list > li > h2 {
 	font-size: 1.5em;
 	display: inline;

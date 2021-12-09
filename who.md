@@ -2,17 +2,12 @@
 layout: about
 title: Who is part of ikkarai?
 permalink: /who/
+keyword: who?
+subnav_order: 2
 ---
 
 
-<p>
-<i>ikkarai</i> is a refuge to those of us who have not fit into a mainstream career trajectory, or have drifted away from one, or have reshaped it into something else entirely.
 
-This has made us eager to share our experiences with others who might be feeling the same — in particular, children, young adults and students.
-
-
-Our hope is that collectively we can create new forms of expression through art, which can fill the gaps that our everyday routines leave behind.
-</p>
 
 
 <i>ikkarai</i> consists of people from various backgrounds, including theatre, dance, puppetry, textile design, mathematics, and illustration:
@@ -42,6 +37,14 @@ Our hope is that collectively we can create new forms of expression through art,
 
 <br>
 
+<p>
+<i>ikkarai</i> is a refuge to those of us who have not fit into a mainstream career trajectory, or have drifted away from one, or have reshaped it into something else entirely.
+
+This has made us eager to share our experiences with others who might be feeling the same — in particular, children, young adults and students.
+
+
+Our hope is that collectively we can create new forms of expression through art, which can fill the gaps that our everyday routines leave behind.
+</p>
 
 Do get in touch if you'd like to work with us in any capacity.
 

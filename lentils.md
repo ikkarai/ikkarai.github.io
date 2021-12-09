@@ -2,9 +2,11 @@
 layout: creations
 title: Lentils and Stones
 permalink: /lentils/
+keyword: Lentils and Stones
+subnav_order: 1
 ---
 
-<i>Lentils and Stones: A performance with theatre, puppetry and dance, inspired by the poem
+<i><b>Lentils and Stones</b>: A performance with theatre, puppetry and dance, inspired by the poem
 'Women Cleaning Lentils' by the Armenian poet Zahrad.</i>
 
 
@@ -26,7 +28,7 @@ As she goes about her daily routine of sorting lentils, an old woman's mind wand
 In a curious reversal of roles, the old woman's television watches on, ineffectively trying to understand this woman's paradoxical relationship to her past.
 
 
-  <img src="../images/lentils/lentils5.jpg" class="alignright" style="min-width: 15rem; width: 30vw">
+  <img src="../images/lentils/lentils5.jpg" class="alignright" style="min-width: 20rem; width: 30vw">
 
 
 The endless invisible labour that is still a source of deep resentment for the old woman  also functions as a source of pride and validation.  And in her old age it assumes yet another role, as her only remaining connection to a world long since passed.

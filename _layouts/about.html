@@ -2,10 +2,26 @@
 layout: article-writing
 ---
 
+{% assign nav_pages = site.pages | where: "layout", "about" | sort: "subnav_order" %}
+
+<ul class="subnav">
+{% for p in nav_pages %}
+                 <li>
+                    {% if p.title == page.title %}
+                      <a style="font-weight: bold" href="{{ site.baseurl }}{{ p.permalink }}">{{ p.keyword }}</a>
+                    {% else %}
+                        <a href="{{ site.baseurl }}{{ p.permalink }}"> {{ p.keyword }} </a>
+                    {% endif %}
+                </li>
+{% endfor %}
+</ul>
+
+<!--
 <ul class="subnav">
   <li><a href="{{site.baseurl}}/what/">what?</a></li>
   <li><a href="{{site.baseurl}}/who/">who?</a></li>
   <li><a href="{{site.baseurl}}/meaning/">'ikkarai'?</a></li>
-</ul>
+</ul> -->
 
+    {% include header.html %}
 {{ content }}

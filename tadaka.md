@@ -2,15 +2,16 @@
 layout: creations
 title: Maradhyana
 permalink: /tadaka/
+keyword: Maradhyana
+subnav_order: 3
 ---
 
-<i>Maradhyana : A dance-drama based on a sub-story within Balakanda, Ramayana, centered around the character of the ‘Demoness’ Thadaka, who was killed by Rama.
+<i><b>Maradhyana</b> : A dance-drama based on a sub-story within Balakanda, Ramayana, centered around the character of the ‘Demoness’ Thadaka, who was killed by Rama.
 </i>
 
 
-<div class="pictures-container">
- <img src="../images/tadaka/tadaka1.jpg" class="shrinkToFit" height="300">
-</div>
+ <img src="../images/tadaka/tadaka1.jpg" class="alignright" style="min-width: 20rem; width: 30vw">
+
 
 
 Created for Gender Bender 2017 by Madhushree Basu, produced by Sandbox Collective and Goethe-Institut/Max Mueller Bhavan Bangalore. Further supported by Urur Olcott Kuppam Vizha, Maatru Nadaga Iyakkam, Thirupattur and Arul Anandar College, Madurai. 
@@ -19,18 +20,18 @@ Created for Gender Bender 2017 by Madhushree Basu, produced by Sandbox Collectiv
 Malayalam poet Vayalar Ramavarma wrote his poem 'Thadaka', depicting the same woman as a valiant Dravidian princess. The princess feels amorous at Rama and attempts to befriend him, but without forgetting the welfare of her own kingdom and their land rights. While Rama tends to reciprocate positively toward her romantic as well as political proposals, his guardian sage Vishwamitra intervenes and intimidates him into killing her—alone and weaponless.
 
 
-<div class="pictures-container">
- <img src="../images/tadaka/tadaka2.jpg" class="shrinkToFit" height="300">
+<div class="flex-container">
+ <img src="../images/tadaka/tadaka2.jpg" style="min-width: 20rem; width: 30vw">
 </div>
 
 
 Given the politics behind ‘demonification’ of certain races or castes, given the rampant massacre of Indian women and most of all the rapid proliferation of the violent Hindutva forces all across India, one feels compelled to engage with Vayalar's poem at many levels.
 
 
-The work has gone through a few versions whereas the only constant factors have been the masks—used for characterization as well as stage design. The original production (under the working title 'Swacchandacharini') was a solo along with a video.
+The work has gone through several iterations. The original production was a solo performance along with a video projection.
 
-<div class="pictures-container">
-  <img src="../images/tadaka/tadaka4.jpg" class="shrinkToFit" height="250">
+<div class="flex-container">
+  <img src="../images/tadaka/tadaka4.jpg" style="min-width: 20rem; width: 30vw">
 </div>
 
 
@@ -41,8 +42,8 @@ Later versions have been choreographed with children from Urur Olcott Kuppam in 
 
 
 
-<div class="pictures-container">
-  <img src="../images/tadaka/tadaka6.jpg" class="shrinkToFit" height="250">
+<div class="flex-container">
+  <img src="../images/tadaka/tadaka6.jpg" style="min-width: 20rem; width: 30vw">
 </div>
 
 
@@ -60,8 +61,8 @@ Music - Maarten, Akila, Chitrasenan
 Script : Madhushree, Veronica, Bhagirathy, Devika
 
 
-<div class="pictures-container">
- <img src="../images/tadaka/tadaka7.jpg" class="shrinkToFit" height="250">
-  <img src="../images/tadaka/tadaka8.jpg" class="shrinkToFit" height="250">
+<div class="flex-container">
+ <img src="../images/tadaka/tadaka7.jpg" style="min-height: 12rem; height: 15vw">
+  <img src="../images/tadaka/tadaka8.jpg" style="min-height: 12rem; height: 15vw">
 </div>
 

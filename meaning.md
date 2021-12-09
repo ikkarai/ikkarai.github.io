@@ -2,6 +2,8 @@
 layout: about
 title: What does <i>ikkarai</i> mean?
 permalink: /meaning/
+keyword: ikkarai?
+subnav_order: 3
 ---
 
 

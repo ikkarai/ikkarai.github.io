@@ -2,10 +2,12 @@
 layout: commissions
 title: Puppets
 permalink: /puppets/
+keyword: Puppets
+subnav_order: 1
 ---
 
 
-Here are some puppet commissions taken up by Pranav Sreerag:
+Here are some puppet commissions we have taken up, led by designer Pranav Sreerag:
 
 
 <p></p>

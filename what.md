@@ -2,6 +2,8 @@
 layout: about
 title: Puppety, Masks, Design!
 permalink: /what/
+keyword: what?
+subnav_order: 1
 ---
 
 

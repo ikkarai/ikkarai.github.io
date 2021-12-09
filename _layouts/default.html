@@ -13,7 +13,7 @@
       <nav>
         <div class="info">
           <div class="name"><center><a href="{{site.baseurl}}/">ikkarai</a></center></div>
-	  <aside><div class="subtle"><center><a href="{{site.baseurl}}/"> <img src="../images/icons/test.png" class="shrinkToFit" height="120"></a> </center></div></aside>
+	  <aside><div class="subtle"><center><a href="{{site.baseurl}}/"> <img src="../images/icons/logo.png" class="shrinkToFit" height="120"></a> </center></div></aside>
 	 <aside><div class="subtle"><center><a href="{{site.baseurl}}/">this shore</a> </center></div></aside>
         </div>
         <div class="menu">
@@ -26,7 +26,11 @@
                   <a href="{{ "https:/" | append: p.url }}">{{ p.title }}</a>
                   {% else %}
 		  <aside>  &nbsp </aside>
-                  <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+                    {% if page.layout == p.layout %}
+                    <a style="font-size: 1.2em; font-weight: bold; color: white;" href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+                    {% else %}
+                    <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+                    {% endif %}                  
                   {% endif %}
                 </li>
               {% endif %}

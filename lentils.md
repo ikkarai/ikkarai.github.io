@@ -54,7 +54,7 @@ Costumes by Purba
 
 Lighting by Anushka Meenakshi and Iswar Lalitha
 
-Concept and Script by Vijay Ravikumar
+Written and Directed by Vijay Ravikumar
 
 Special thanks to  Perch Collective Chennai for their support and mentorship.
 

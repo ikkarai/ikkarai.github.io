@@ -50,6 +50,7 @@ figcaption {
   font-size: 1em;
   -webkit-font-smoothing: subpixel-antialiased;
   max-width: 40rem;
+  text-align: center;
 }
 
 

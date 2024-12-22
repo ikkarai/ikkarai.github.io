@@ -15,7 +15,7 @@ Velichappadu.</i>
  <img src="../images/bhayabhakti/bhayabhakti1.jpg" style="min-width: 20rem; width: 30vw">
 </div>
 
-Created for Gender Benger 2018 by Pranav Sreerag, produced by Sandbox Collective and Goethe-Institut/Max Mueller Bhavan Bangalore
+Created for Gender Bender 2018 by Pranav Sreerag, produced by Sandbox Collective and Goethe-Institut/Max Mueller Bhavan Bangalore
 
 Many people have heard the story of Nangeli -- the 19th century Ezhava woman who cut off her breasts
 and bled to death, rather than comply with the breast tax imposed by the landowning castes under the
@@ -27,7 +27,7 @@ Nangeli's shared struggle to a singular dramatic act that seems to stands
 apart from the forces of oppression that persist today. 
 
 We would like to reposition the story as part of
-the struggle of a people against an opressive feudal power that uses women's bodies
+the struggle of a people against an oppressive feudal power that uses women's bodies
 as a tool to subjugate an entire farming community and maintain its parasitic hold. Like so many other
 singular heroic figures, there is evidence that Nangeli and her husband Chirukandan (who jumped into
 her funeral pyre to take his own life) did not impulsively decide to become martyrs, but had long been
